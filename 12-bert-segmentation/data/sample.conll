@@ -1,0 +1,21 @@
+# tokens	labels
+我	B-NP
+爱	B-VP
+自然	B-NP
+语言	I-NP
+处理	I-NP
+
+今	B-NP
+天	I-NP
+的	O
+天气	B-NP
+真	B-ADJP
+好	I-ADJP
+
+你	B-NP
+能	B-VP
+给	B-VP
+我	B-NP
+推荐	B-VP
+书	B-NP
+吗	O
